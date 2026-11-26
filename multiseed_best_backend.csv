@@ -1,0 +1,6 @@
+circuit,qubits,best_backend,cx_mean,cx_std,avg_cx_error,est_mean,est_std
+GHZ_10,10,mumbai,9.0,0.0,0.0097,0.0877,0.0
+GHZ_16,16,mumbai,15.0,0.0,0.0097,0.1462,0.0
+GHZ_20,20,mumbai,19.0,0.0,0.0097,0.1852,0.0
+GHZ_5,5,Nairobi,4.0,0.0,0.0088,0.0351,0.0
+GHZ_7,7,mumbai,6.0,0.0,0.0097,0.0585,0.0

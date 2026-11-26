@@ -1,0 +1,6 @@
+circuit,qubits,num_parameters,input_depth,input_ops
+GHZ_5,5,0,5,"{'cx': 4, 'u': 1}"
+GHZ_7,7,0,7,"{'cx': 6, 'u': 1}"
+GHZ_10,10,0,10,"{'cx': 9, 'u': 1}"
+GHZ_16,16,0,16,"{'cx': 15, 'u': 1}"
+GHZ_20,20,0,20,"{'cx': 19, 'u': 1}"
